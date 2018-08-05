@@ -1,5 +1,7 @@
 # Timy
 
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/timy.svg)](https://www.guardrails.io)
+
 Minimalist measurement of python code time
 > You can also use the built-in [timeit](https://docs.python.org/2.7/library/timeit.html) module
 
